@@ -1,0 +1,8 @@
+epiz_25912138
+uNONX3hW76UiA
+
+db
+host : sql101.epizy.com 
+name : epiz_25912138_sipaspro
+username : epiz_25912138
+pass : uNONX3hW76UiA
